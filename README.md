@@ -12,6 +12,9 @@ Quick commerce for hardware: a customer app, a rider app and a warehouse admin o
 **[Kareegar Bros](https://kareegarbros.com)** · Next.js, GSAP\
 A Mumbai office-seating workshop, taken online from brand to launch. Scrolling turns each chair through every side, and visitors send a quote list on WhatsApp or by email.
 
+**[Pixel Arcade](https://games.zaidansari.tech)** · JavaScript, Supabase, Vercel\
+Two pixel games, a bakery sim and a pet that grows up over weeks, built and put online in a day. Sign in with Google or an emailed code and your saves follow you from phone to laptop without newer progress ever being overwritten. Friends, daily gifts and leaderboards on top.
+
 **[Q-Vault](https://github.com/zaidnansari2011/Post-Quantum-Multi-Signature-Vault)** · Python, Flask, PostgreSQL\
 A post-quantum multi-signature vault. Its signature algorithm switches from ML-DSA to SLH-DSA at runtime and every past signature still verifies. 714 tests at 88% coverage.
 
